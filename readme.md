@@ -1,13 +1,8 @@
-# Calculate grades
+# Calculate courses
 
-Calculate grades is a small form and script combination. It calculates grade based on maximum and minimum (lowest grade) points.
+Calculate courses is a small test case using [WP Libre Form](https://github.com/libreform/wp-libre-form). It calculates course prices based on your selected courses.
 
-You can also insert student exam points.
+Example form template can be found in [inc/espoo-summerschool.html](inc/espoo-summerschool.html).
 
-## Demo and live example
+Note that I'm manually using that template at the moment.
 
-Demo and live example can be found in Pohjois-Tapiola highschool [Calculate grade page](https://pohjois-tapiola.com/lukio/arvosanalaskuri/) (in Finnish).
-
-## Screenshot
-
-![Calculate grades table](https://pohjois-tapiola.com/lukio/wp-content/uploads/2017/09/arvosanalaskuri-screenshot.jpg)
