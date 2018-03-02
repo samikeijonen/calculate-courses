@@ -1,0 +1,84 @@
+<div class="espoo-summerschool-courses" id="espoo-summerschool-courses">
+	<p>
+		<label for="name">Nimi</label>
+		<input type="text" name="Nimi" id="name" required>
+	</p>
+
+	<p>
+		<label for="email">Sähköposti (pakollinen)</label>
+		<input type="email" name="Sähköposti" id="email" required>
+	</p>
+
+	<p>
+		<label for="address">Osoite</label>
+		<input type="text" name="Osoite" id="address" required>
+	</p>
+
+	<p>
+		<label for="postal-code">Postinumero</label>
+		<input type="text" name="Postinumero" id="postal-code" required>
+	</p>
+
+	<p>
+		<label for="post-office">Postitoimipaikka</label>
+		<input type="text" name="Postitoimipaikka" id="post-office" required>
+	</p>
+
+	<fieldset>
+		<legend>Kurssit klo 8:30 - 10:45</legend>
+		<input id="ENA04" type="radio" name="courses-1" value="ENA04">
+		<label for="ENA04">ENA04</label><br />
+
+		<input id="RUB05" type="radio" name="courses-1" value="RUB05">
+		<label for="RUB05">RUB05</label><br />
+
+		<input id="AI06" type="radio" name="courses-1" value="AI06">
+		<label for="AI06">AI06</label><br />
+
+		<input id="MAA06" type="radio" name="courses-1" value="MAA06">
+		<label for="MAA06">MAA06</label><br />
+
+		<input id="YH02" type="radio" name="courses-1" value="YH02">
+		<label for="YH02">YH02</label>
+	</fieldset>
+
+	<fieldset>
+		<legend>Kurssit klo  11:15 - 13:30</legend>
+		<input id="ENA05" type="radio" name="courses-2" value="ENA05">
+		<label for="ENA05">ENA05</label><br />
+
+		<input id="RUB04" type="radio" name="courses-2" value="RUB04">
+		<label for="RUB04">RUB04</label><br />
+
+		<input id="MAB03" type="radio" name="courses-2" value="MAB03">
+		<label for="MAB03">MAB03</label><br />
+
+		<input id="MAA10" type="radio" name="courses-2" value="MAA10">
+		<label for="MAA10">MAA10</label><br />
+
+		<input id="HI02" type="radio" name="courses-2" value="HI02">
+		<label for="HI02">HI02</label>
+	</fieldset>
+
+	<fieldset>
+		<legend>Kurssit klo  13:45 - 16:00</legend>
+		<input id="ENA06" type="radio" name="courses-3" value="ENA06">
+		<label for="ENA06">ENA06</label><br />
+
+		<input id="RUB03" type="radio" name="courses-3" value="RUB03">
+		<label for="RUB03">RUB03</label><br />
+
+		<input id="MAB04" type="radio" name="courses-3" value="MAB04">
+		<label for="MAB04">MAB04</label><br />
+
+		<input id="YH03" type="radio" name="courses-3" value="YH03">
+		<label for="YH03">YH03</label>
+	</fieldset>
+
+	<p>
+		<strong>Summa:</strong> <span class="sum-of-courses" id="sum-of-courses">0</span>&euro;
+		<input id="total-sum" type="hidden" value="0">
+	</p>
+
+	<p><button type="submit">Ilmoittaudu</button> <input id="reset-form" type="reset" value="Tyhjennä"></p>
+</div>

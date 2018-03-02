@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Calculate grades\n"
+"POT-Creation-Date: 2017-09-01 22:40+0300\n"
+"PO-Revision-Date: 2017-09-01 22:40+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: calculate-grades.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: calculate-grades.php:152
+msgid "Calculated grades"
+msgstr "Lasketut arvosanat"
+
+#: calculate-grades.php:153
+msgid "Points"
+msgstr "Pisteet"
+
+#: calculate-grades.php:154
+msgid "Grade"
+msgstr "Arvosana"
+
+#: inc/functions.php:10
+msgid "Common grade combinations"
+msgstr "Yleisiä maksimipisteitä"
+
+#: inc/functions.php:12
+msgid "Max. points 30"
+msgstr "Maksimipisteet 30"
+
+#: inc/functions.php:15
+msgid "Max. points 36"
+msgstr "Maksimipisteet 36"
+
+#: inc/functions.php:18
+msgid "Max. points 42"
+msgstr "Maksimipisteet 42"
+
+#: inc/functions.php:21
+msgid "Max. points 48"
+msgstr "Maksimipisteet 48"
+
+#: inc/functions.php:25
+msgid "Max points"
+msgstr "Maksimipisteet"
+
+#: inc/functions.php:30
+msgid "Points for four"
+msgstr "Nelosen pistemäärä"
+
+#: inc/functions.php:35
+msgid "Student points"
+msgstr "Saatu pistemäärä"
+
+#: inc/functions.php:39
+msgid "Calculate"
+msgstr "Laske"
+
+#. Plugin Name of the plugin/theme
+msgid "Calculate grades"
+msgstr "Arvosanalaskuri"
+
+#. Plugin URI of the plugin/theme
+msgid "https://foxland.fi/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Calculate grades via form."
+msgstr "Laske arvosanoja lomakkeen avulla."
+
+#. Author of the plugin/theme
+msgid "Sami Keijonen"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://foxnet.fi/"
+msgstr ""
